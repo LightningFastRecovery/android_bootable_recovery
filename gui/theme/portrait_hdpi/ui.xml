@@ -101,7 +101,6 @@
 		<image name="main_button_black2" filename="main_button_black2"/>
 		<image name="main_button_black3" filename="main_button_black3"/>
 		<image name="main_button_black3_new" filename="main_button_black3_new" retainaspect="1"/>
-		<image name="main_button_themes_features" filename="main_button_themes_features" retainaspect="1"/>
 		<image name="main_button_specials_info" filename="main_button_specials_info" retainaspect="1"/>
 		<image name="scrolling_notice" filename="scrolling_notice" retainaspect="1"/>
 		<image name="main_button_specials_icon" filename="main_button_specials_icon" retainaspect="1"/>

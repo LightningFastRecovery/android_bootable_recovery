@@ -325,16 +325,6 @@
 			</text>
 			<text>
 				<font resource="font_roboto" color="%sub_header_color%"/>
-				<placement x="%center_x%" y="%row12a_y%" placement="5"/>
-				<text>{@pb_theme_1=Feel free to send your custom made themes to}</text>
-			</text>
-			<text>
-				<font resource="font_roboto" color="%sub_header_color%"/>
-				<placement x="%center_x%" y="%row14_y%" placement="5"/>
-				<text>{@pb_theme_2=us on}</text>
-			</text>
-			<text>
-				<font resource="font_roboto" color="%sub_header_color%"/>
 				<placement x="%center_x%" y="%row15a_y%" placement="5"/>
 				<text>pitchblackrecovery.com</text>
 			</text>
