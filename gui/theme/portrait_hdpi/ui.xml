@@ -153,15 +153,6 @@
 		<image name="more_icon" filename="more_icon" retainaspect="1" />
 		<image name="main_button_tools" filename="main_button_tools" retainaspect="1" />
 		<image name="trash" filename="trash" retainaspect="1" />
-		<image name="camera2" filename="camera2" retainaspect="1" />
-		<image name="codename_changer" filename="codename_changer" retainaspect="1" />
-		<image name="dm_verity" filename="dm_verity" retainaspect="1" />
-		<image name="fingerprint" filename="fingerprint" retainaspect="1" />
-		<image name="magisk" filename="magisk" retainaspect="1" />
-		<image name="mtp" filename="mtp" retainaspect="1" />
-		<image name="overlays" filename="overlays" retainaspect="1" />
-		<image name="pin_pass_remover" filename="pin_pass_remover" retainaspect="1" />
-		<image name="unroot" filename="unroot" retainaspect="1" />
 		<image name="pb" filename="pb" retainaspect="1" />
 	</resources>
 	<variables>
